@@ -1,0 +1,98 @@
+.correct {
+    background: none;
+    cursor: pointer;
+    border: none;
+    outline: none;
+}
+
+.correct-elements {
+    width: 114px;
+    color: #fff;
+    background: none;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    padding: 10px 20px;
+    font-size: 12px;
+    font-weight: 800;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+#success {
+    display: none;
+}
+
+#link-heart {
+    text-decoration: none;
+}
+
+.color-#1b1e21 {
+    color: #1b1e21;
+}
+.login-form {
+    margin-top: 80px;
+}
+
+.instrument-icon {
+    margin-left: 15px;
+}
+.icon-edit {
+    width: 1em;
+    height: auto;
+}
+.icon-delete {
+    width: 1em;
+    height: auto;
+    margin: 0 0 0 15px;
+}
+
+.icon-reply {
+    cursor: pointer;
+}
+.answerForm {
+    display: none;
+}
+
+/* MENU */
+
+.me-navbar {
+    width: 100%;
+}
+.me-navbar > .container {
+    padding: 0 15px 0 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.me-con {
+    align-items: center;
+    height: 60px;
+}
+.me-navbar-with {
+    display: flex;
+    padding: 0;
+    margin: 0;
+}
+.me-navbar-with > li:nth-child(4) {
+    padding-right: 0;
+}
+.me-navbar-with > li {
+    list-style: none;
+    padding: 0 15px 0 15px;
+}
+/* CONTACTS */
+.me-contacts-list {
+    margin-top: 50px;
+}
+input.error {
+    border: 1px solid #ff0000;
+}
+textarea.error {
+    border: 1px solid #ff0000;
+}
+span.red {
+    color: #ff0000;
+}
+
+/* CONTACT - MESSAGE */
